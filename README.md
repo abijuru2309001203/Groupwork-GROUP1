@@ -1,6 +1,6 @@
 Members:
-Abasengimana Jane
-Abijuru Divine
-Ahishakiye Olivier
-Alain Gisanura
+Abasengimana Jane,
+Abijuru Divine,
+Ahishakiye Olivier,
+Alain Gisanura,
 Bahizi Aime Pacifique
